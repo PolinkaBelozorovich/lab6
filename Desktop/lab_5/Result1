@@ -1,0 +1,12 @@
+Time of adding to LinkedList: 1757166  nanosec
+Time of adding to ArrayList: 2264990  nanosec
+Time of adding to TreeSet: 4979434  nanosec
+Time of adding to HashSet: 428329  nanosec
+Time of searching to LinkedList: 115590  nanosec
+Time of searching to ArrayList: 121315  nanosec
+Time of searching to TreeSet: 91509  nanosec
+Time of searching to HashSet: 38044  nanosec
+Time of removing to LinkedList: 47325  nanosec
+Time of removing to ArrayList: 27641  nanosec
+Time of removing to TreeSet: 59049  nanosec
+Time of removing to HashSet: 39059  nanosec
